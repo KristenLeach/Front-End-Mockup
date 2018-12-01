@@ -1,6 +1,6 @@
 ## HTML/CSS Mockup
 
-This is an HTML/CSS component mockup. 
+This is a responsive HTML/CSS component mockup. 
 
 See a preview at the link below.
 
